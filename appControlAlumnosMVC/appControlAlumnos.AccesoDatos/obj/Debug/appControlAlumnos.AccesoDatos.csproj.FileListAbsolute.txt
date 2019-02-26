@@ -1,0 +1,7 @@
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.AccesoDatos\bin\Debug\appControlAlumnos.AccesoDatos.dll
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.AccesoDatos\bin\Debug\appControlAlumnos.AccesoDatos.pdb
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.AccesoDatos\bin\Debug\appControlAlumnos.Entidades.dll
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.AccesoDatos\bin\Debug\appControlAlumnos.Entidades.pdb
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.AccesoDatos\obj\Debug\appControlAlumnos.AccesoDatos.dll
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.AccesoDatos\obj\Debug\appControlAlumnos.AccesoDatos.pdb
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.AccesoDatos\obj\Debug\appControlAlumnos.AccesoDatos.csprojResolveAssemblyReference.cache

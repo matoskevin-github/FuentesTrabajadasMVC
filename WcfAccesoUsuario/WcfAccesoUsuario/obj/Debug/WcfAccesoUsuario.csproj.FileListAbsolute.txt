@@ -1,0 +1,7 @@
+E:\Aplicaciones_NET\WcfAccesoUsuario\WcfAccesoUsuario\bin\WcfAccesoUsuario.dll.config
+E:\Aplicaciones_NET\WcfAccesoUsuario\WcfAccesoUsuario\bin\WcfAccesoUsuario.dll
+E:\Aplicaciones_NET\WcfAccesoUsuario\WcfAccesoUsuario\bin\WcfAccesoUsuario.pdb
+E:\Aplicaciones_NET\WcfAccesoUsuario\WcfAccesoUsuario\obj\Debug\WcfAccesoUsuario.csprojAssemblyReference.cache
+E:\Aplicaciones_NET\WcfAccesoUsuario\WcfAccesoUsuario\obj\Debug\WcfAccesoUsuario.csproj.CoreCompileInputs.cache
+E:\Aplicaciones_NET\WcfAccesoUsuario\WcfAccesoUsuario\obj\Debug\WcfAccesoUsuario.dll
+E:\Aplicaciones_NET\WcfAccesoUsuario\WcfAccesoUsuario\obj\Debug\WcfAccesoUsuario.pdb

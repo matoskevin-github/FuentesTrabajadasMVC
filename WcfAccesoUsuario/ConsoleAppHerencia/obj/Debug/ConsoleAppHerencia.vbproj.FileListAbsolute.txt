@@ -1,0 +1,4 @@
+E:\Aplicaciones_NET\WcfAccesoUsuario\ConsoleAppHerencia\obj\Debug\ConsoleAppHerencia.vbprojAssemblyReference.cache
+E:\Aplicaciones_NET\WcfAccesoUsuario\ConsoleAppHerencia\obj\Debug\ConsoleAppHerencia.Resources.resources
+E:\Aplicaciones_NET\WcfAccesoUsuario\ConsoleAppHerencia\obj\Debug\ConsoleAppHerencia.vbproj.GenerateResource.cache
+E:\Aplicaciones_NET\WcfAccesoUsuario\ConsoleAppHerencia\obj\Debug\ConsoleAppHerencia.vbproj.CoreCompileInputs.cache

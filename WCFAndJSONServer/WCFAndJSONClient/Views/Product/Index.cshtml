@@ -1,0 +1,53 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <fieldset>
+        <legend>Product Information</legend>
+        <table cellpadding="2" cellspacing="2">
+            <tr>
+                <td>Id</td>
+                <td>@ViewBag.product.Id</td>
+            </tr>
+
+            <tr>
+                <td>Name</td>
+                <td>@ViewBag.product.Name</td>
+            </tr>
+
+            <tr>
+                <td>Price</td>
+                <td>@ViewBag.product.Price</td>
+            </tr>
+        </table>
+    </fieldset>
+
+    <fieldset>
+        <legend>List Products</legend>
+        <table cellpadding="2" cellspacing="2">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+            @foreach (var p in @ViewBag.listProducts)
+            {
+                <tr>
+                    <td>@p.Id</td>
+                    <td>@p.Name</td>
+                    <td>@p.Price</td>
+                </tr>
+            }
+        </table>
+    </fieldset>
+</body>
+</html>

@@ -1,0 +1,11 @@
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.AccesoDatos\bin\Debug\appHeroeMVC.AccesoDatos.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.AccesoDatos\bin\Debug\appHeroeMVC.AccesoDatos.pdb
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.AccesoDatos\bin\Debug\appHeroeMVC.Entidades.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.AccesoDatos\bin\Debug\EntityFramework.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.AccesoDatos\bin\Debug\appHeroeMVC.Entidades.pdb
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.AccesoDatos\bin\Debug\EntityFramework.xml
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.AccesoDatos\obj\Debug\appHeroeMVC.AccesoDatos.csprojResolveAssemblyReference.cache
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.AccesoDatos\obj\Debug\appHeroeMVC.AccesoDatos.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.AccesoDatos\obj\Debug\appHeroeMVC.AccesoDatos.pdb

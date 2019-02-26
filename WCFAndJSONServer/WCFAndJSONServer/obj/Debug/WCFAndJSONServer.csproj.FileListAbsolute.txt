@@ -1,0 +1,6 @@
+E:\Aplicaciones_NET\WCFAndJSONServer\WCFAndJSONServer\bin\WCFAndJSONServer.dll.config
+E:\Aplicaciones_NET\WCFAndJSONServer\WCFAndJSONServer\bin\WCFAndJSONServer.dll
+E:\Aplicaciones_NET\WCFAndJSONServer\WCFAndJSONServer\bin\WCFAndJSONServer.pdb
+E:\Aplicaciones_NET\WCFAndJSONServer\WCFAndJSONServer\obj\Debug\WCFAndJSONServer.csproj.CoreCompileInputs.cache
+E:\Aplicaciones_NET\WCFAndJSONServer\WCFAndJSONServer\obj\Debug\WCFAndJSONServer.dll
+E:\Aplicaciones_NET\WCFAndJSONServer\WCFAndJSONServer\obj\Debug\WCFAndJSONServer.pdb

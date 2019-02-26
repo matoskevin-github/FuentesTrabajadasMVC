@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#checkboxAll").click(function () {
+                if ($(this).is(":checked")) {
+                    $('.chkCheckBoxId').prop('checked', true);
+                } else {
+                    $('.chkCheckBoxId').prop('checked', false);
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    @using (Html.BeginForm("Index", "Product", FormMethod.Post))
+    {
+        <input type="submit" name="name" value="Delete" onclick="return confirm('Are you sure?')" />
+        <br />
+        <table cellpadding="2" cellspacing="2" border="1">
+            <tr>
+                <th><input type="checkbox" id="checkboxAll" name="checkboxAll" value="" /></th>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+            @foreach (var product in ViewBag.listProduct)
+            {
+                <tr>
+                    <td><input type="checkbox" id="checkboxAll" class="chkCheckBoxId" name="productId" value="@product.Id" /></td>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                </tr>
+            }
+        </table>
+    }
+
+</body>
+</html>

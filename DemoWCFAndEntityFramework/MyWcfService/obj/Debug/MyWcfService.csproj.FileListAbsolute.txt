@@ -1,0 +1,11 @@
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\MyWcfService\bin\MyWcfService.dll.config
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\MyWcfService\bin\MyWcfService.dll
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\MyWcfService\bin\MyWcfService.pdb
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\MyWcfService\bin\EntityFramework.dll
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\MyWcfService\bin\EntityFramework.SqlServer.dll
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\MyWcfService\bin\EntityFramework.xml
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\MyWcfService\bin\EntityFramework.SqlServer.xml
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\MyWcfService\obj\Debug\MyWcfService.csproj.CoreCompileInputs.cache
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\MyWcfService\obj\Debug\MyWcfService.csproj.CopyComplete
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\MyWcfService\obj\Debug\MyWcfService.dll
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\MyWcfService\obj\Debug\MyWcfService.pdb

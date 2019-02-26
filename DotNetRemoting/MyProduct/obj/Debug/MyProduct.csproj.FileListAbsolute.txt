@@ -1,0 +1,5 @@
+E:\Aplicaciones_NET\DotNetRemoting\MyProduct\bin\Debug\MyProduct.dll
+E:\Aplicaciones_NET\DotNetRemoting\MyProduct\bin\Debug\MyProduct.pdb
+E:\Aplicaciones_NET\DotNetRemoting\MyProduct\obj\Debug\MyProduct.csproj.CoreCompileInputs.cache
+E:\Aplicaciones_NET\DotNetRemoting\MyProduct\obj\Debug\MyProduct.dll
+E:\Aplicaciones_NET\DotNetRemoting\MyProduct\obj\Debug\MyProduct.pdb

@@ -1,0 +1,10 @@
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\DemoWindowsFormsWCF\bin\Debug\DemoWindowsFormsWCF.exe.config
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\DemoWindowsFormsWCF\bin\Debug\DemoWindowsFormsWCF.exe
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\DemoWindowsFormsWCF\bin\Debug\DemoWindowsFormsWCF.pdb
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\DemoWindowsFormsWCF\obj\Debug\DemoWindowsFormsWCF.csprojAssemblyReference.cache
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\DemoWindowsFormsWCF\obj\Debug\DemoWindowsFormsWCF.frmConsultaWS.resources
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\DemoWindowsFormsWCF\obj\Debug\DemoWindowsFormsWCF.Properties.Resources.resources
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\DemoWindowsFormsWCF\obj\Debug\DemoWindowsFormsWCF.csproj.GenerateResource.cache
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\DemoWindowsFormsWCF\obj\Debug\DemoWindowsFormsWCF.csproj.CoreCompileInputs.cache
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\DemoWindowsFormsWCF\obj\Debug\DemoWindowsFormsWCF.exe
+E:\Aplicaciones_NET\DemoWCFAndEntityFramework\DemoWindowsFormsWCF\obj\Debug\DemoWindowsFormsWCF.pdb

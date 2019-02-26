@@ -1,0 +1,10 @@
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.Entidades\bin\Debug\appHeroeMVC.Entidades.dll.config
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.Entidades\bin\Debug\appHeroeMVC.Entidades.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.Entidades\bin\Debug\appHeroeMVC.Entidades.pdb
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.Entidades\bin\Debug\EntityFramework.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.Entidades\bin\Debug\EntityFramework.xml
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.Entidades\bin\Debug\EntityFramework.SqlServer.xml
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.Entidades\obj\Debug\appHeroeMVC.Entidades.csprojResolveAssemblyReference.cache
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.Entidades\obj\Debug\appHeroeMVC.Entidades.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.Entidades\obj\Debug\appHeroeMVC.Entidades.pdb

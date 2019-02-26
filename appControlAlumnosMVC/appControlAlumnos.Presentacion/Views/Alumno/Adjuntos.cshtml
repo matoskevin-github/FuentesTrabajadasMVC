@@ -1,0 +1,12 @@
+﻿@model IEnumerable<appControlAlumnos.Entidades.AdjuntoBE>
+
+<ul class="list-group">
+    @foreach (var a in Model)
+    {
+        <li class="list-group-item">
+            <a href="~/Uploads/@a.Archivo" _blank>
+                @a.Archivo
+            </a>
+        </li>
+    }
+</ul>

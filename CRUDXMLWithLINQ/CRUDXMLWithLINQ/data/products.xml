@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product id="p01">
+    <name>Product 1</name>
+    <price currency="USD">100</price>
+  </product>
+  <product id="p02">
+    <name>Product 2</name>
+    <price currency="EUR">200</price>
+  </product>
+  <product id="p03">
+    <name>abc</name>
+    <price currency="AUD">123</price>
+  </product>
+</products>

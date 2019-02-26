@@ -1,0 +1,10 @@
+E:\Aplicaciones_NET\DotNetRemoting\DotNetRemoting\bin\Debug\DotNetRemoting.exe.config
+E:\Aplicaciones_NET\DotNetRemoting\DotNetRemoting\bin\Debug\DotNetRemoting.exe
+E:\Aplicaciones_NET\DotNetRemoting\DotNetRemoting\bin\Debug\DotNetRemoting.pdb
+E:\Aplicaciones_NET\DotNetRemoting\DotNetRemoting\bin\Debug\MyProduct.dll
+E:\Aplicaciones_NET\DotNetRemoting\DotNetRemoting\bin\Debug\MyProduct.pdb
+E:\Aplicaciones_NET\DotNetRemoting\DotNetRemoting\obj\Debug\DotNetRemoting.csprojAssemblyReference.cache
+E:\Aplicaciones_NET\DotNetRemoting\DotNetRemoting\obj\Debug\DotNetRemoting.csproj.CoreCompileInputs.cache
+E:\Aplicaciones_NET\DotNetRemoting\DotNetRemoting\obj\Debug\DotNetRemoting.csproj.CopyComplete
+E:\Aplicaciones_NET\DotNetRemoting\DotNetRemoting\obj\Debug\DotNetRemoting.exe
+E:\Aplicaciones_NET\DotNetRemoting\DotNetRemoting\obj\Debug\DotNetRemoting.pdb

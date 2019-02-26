@@ -1,0 +1,9 @@
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.LogicaNegocio\bin\Debug\appControlAlumnos.LogicaNegocio.dll
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.LogicaNegocio\bin\Debug\appControlAlumnos.LogicaNegocio.pdb
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.LogicaNegocio\bin\Debug\appControlAlumnos.AccesoDatos.dll
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.LogicaNegocio\bin\Debug\appControlAlumnos.Entidades.dll
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.LogicaNegocio\bin\Debug\appControlAlumnos.AccesoDatos.pdb
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.LogicaNegocio\bin\Debug\appControlAlumnos.Entidades.pdb
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.LogicaNegocio\obj\Debug\appControlAlumnos.LogicaNegocio.csprojResolveAssemblyReference.cache
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.LogicaNegocio\obj\Debug\appControlAlumnos.LogicaNegocio.dll
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.LogicaNegocio\obj\Debug\appControlAlumnos.LogicaNegocio.pdb

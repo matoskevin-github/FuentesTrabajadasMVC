@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Search AutoComplete with ASP.NET MVC</title>
+    <link href="~/css/jquery-ui.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.12.4.js"></script>
+    <script src="~/Scripts/jquery-ui.js"></script>    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#productName").autocomplete({
+                source: '@Url.Action("Search", "Product")'
+            });
+        });
+    </script>
+</head>
+<body>
+    <div> 
+        Product name <input type="text" name="productName"  id="productName" value="" />
+    </div>
+</body>
+</html>

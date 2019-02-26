@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeJSONInAngularJSWithASPNETWebAPI", "ConsumeJSONInAngularJSWithASPNETWebAPI\ConsumeJSONInAngularJSWithASPNETWebAPI.csproj", "{FBE4E1C6-2E42-4645-B962-2DFF51104EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClient", "MyClient\MyClient.csproj", "{906B471C-843D-4B3E-A37E-38DD8F434E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE4E1C6-2E42-4645-B962-2DFF51104EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE4E1C6-2E42-4645-B962-2DFF51104EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE4E1C6-2E42-4645-B962-2DFF51104EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE4E1C6-2E42-4645-B962-2DFF51104EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906B471C-843D-4B3E-A37E-38DD8F434E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906B471C-843D-4B3E-A37E-38DD8F434E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906B471C-843D-4B3E-A37E-38DD8F434E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906B471C-843D-4B3E-A37E-38DD8F434E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C3563F0-A595-42F8-9C53-AF29935C3BFD}
+	EndGlobalSection
+EndGlobal

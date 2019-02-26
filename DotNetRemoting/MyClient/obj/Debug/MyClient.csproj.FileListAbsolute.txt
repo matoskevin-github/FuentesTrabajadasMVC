@@ -1,0 +1,10 @@
+E:\Aplicaciones_NET\DotNetRemoting\MyClient\bin\Debug\MyClient.exe.config
+E:\Aplicaciones_NET\DotNetRemoting\MyClient\bin\Debug\MyClient.exe
+E:\Aplicaciones_NET\DotNetRemoting\MyClient\bin\Debug\MyClient.pdb
+E:\Aplicaciones_NET\DotNetRemoting\MyClient\bin\Debug\MyProduct.dll
+E:\Aplicaciones_NET\DotNetRemoting\MyClient\bin\Debug\MyProduct.pdb
+E:\Aplicaciones_NET\DotNetRemoting\MyClient\obj\Debug\MyClient.csprojAssemblyReference.cache
+E:\Aplicaciones_NET\DotNetRemoting\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+E:\Aplicaciones_NET\DotNetRemoting\MyClient\obj\Debug\MyClient.csproj.CopyComplete
+E:\Aplicaciones_NET\DotNetRemoting\MyClient\obj\Debug\MyClient.exe
+E:\Aplicaciones_NET\DotNetRemoting\MyClient\obj\Debug\MyClient.pdb

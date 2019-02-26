@@ -1,0 +1,35 @@
+﻿@model appControlAlumnos.Entidades.AlumnoCursoBE
+@{
+    ViewBag.Title = Model.oAlumnoBE.Nombre + " " + Model.oAlumnoBE.Apellido;
+}
+
+<ol class="breadcrumb">
+    <li><a href="@Url.Action("Index","Alumno")">Alumnos</a></li>
+    <li class="active">@(Model.oAlumnoBE.Nombre + " " + Model.oAlumnoBE.Apellido)</li>
+</ol>
+
+<div class="panel panel-default">
+    <div class="panel-heading">Información personal</div>
+    <div class="panel-body">
+        <dl class="dl-horizontal">
+            <dt>Nombre</dt>
+            <dd>@Model.oAlumnoBE.Nombre</dd>
+            <dt>Apellido</dt>
+            <dd>@Model.oAlumnoBE.Apellido</dd>
+        </dl>
+    </div>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-heading">Asignaturas seleccionadas</div>
+    <div class="panel-body">
+        <ul class="list-group">
+            @foreach (var c in Model.oCursoBE)
+            {
+                <li class="list-group-item">
+                    @c.Nombre
+                </li>
+            }
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,5 @@
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.Entidades\bin\Debug\appControlAlumnos.Entidades.dll
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.Entidades\bin\Debug\appControlAlumnos.Entidades.pdb
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.Entidades\obj\Debug\appControlAlumnos.Entidades.csprojResolveAssemblyReference.cache
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.Entidades\obj\Debug\appControlAlumnos.Entidades.dll
+E:\Aplicaciones_NET\appControlAlumnosMVC\appControlAlumnos.Entidades\obj\Debug\appControlAlumnos.Entidades.pdb

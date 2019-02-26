@@ -1,0 +1,7 @@
+E:\Aplicaciones_NET\CRUDXMLWithLINQ\CRUDXMLWithLINQ\bin\Debug\CRUDXMLWithLINQ.exe.config
+E:\Aplicaciones_NET\CRUDXMLWithLINQ\CRUDXMLWithLINQ\bin\Debug\CRUDXMLWithLINQ.exe
+E:\Aplicaciones_NET\CRUDXMLWithLINQ\CRUDXMLWithLINQ\bin\Debug\CRUDXMLWithLINQ.pdb
+E:\Aplicaciones_NET\CRUDXMLWithLINQ\CRUDXMLWithLINQ\obj\Debug\CRUDXMLWithLINQ.csprojAssemblyReference.cache
+E:\Aplicaciones_NET\CRUDXMLWithLINQ\CRUDXMLWithLINQ\obj\Debug\CRUDXMLWithLINQ.csproj.CoreCompileInputs.cache
+E:\Aplicaciones_NET\CRUDXMLWithLINQ\CRUDXMLWithLINQ\obj\Debug\CRUDXMLWithLINQ.exe
+E:\Aplicaciones_NET\CRUDXMLWithLINQ\CRUDXMLWithLINQ\obj\Debug\CRUDXMLWithLINQ.pdb

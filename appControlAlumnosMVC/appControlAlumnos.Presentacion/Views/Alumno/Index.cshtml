@@ -1,0 +1,48 @@
+﻿@model List<appControlAlumnos.Entidades.AlumnoBE>
+@{
+
+    ViewBag.Title = "Alumnos";
+}
+
+<div class="well well-sm">
+    <div class="row">
+        <div class="col-xs-10">
+            <h2>Alumnos</h2>
+        </div>
+        <div class="col-xs-2 text-right">
+            @* REDIRECCIONA AL FORMULARIO DE REGISTRO *@
+            <a class="btn btn-primary" href="@Url.Action("Registro","Alumno",new appControlAlumnos.Entidades.AlumnoBE { IdAlumno = 0 }))">Nuevo registro</a>
+
+     
+        </div>
+    </div>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th style="width:100px;">Nombre</th>
+            <th>Apellido</th>
+            <th style="width:200px;"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Apellido</td>
+                <td class="text-right">
+                    @* REDIRECCIONA AL FORMULARIO VER *@
+                    <a class="btn btn-default btn-success" href="@Url.Action("Ver","Alumno",new appControlAlumnos.Entidades.AlumnoBE { IdAlumno = @item.IdAlumno })" title="Visualizar">
+                        <i class="glyphicon glyphicon-eye-open"></i>
+                    </a>
+                    @* REDIRECCIONA AL FORMULARIO EDITAR *@
+                    <a class="btn btn-default" href="@Url.Action("Registro","Alumno",new appControlAlumnos.Entidades.AlumnoBE { IdAlumno = @item.IdAlumno })" title="Editar">
+                        <i class="glyphicon glyphicon-pencil"></i>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

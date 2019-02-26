@@ -1,0 +1,11 @@
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.LogicaNegocio\bin\Debug\appHeroeMVC.LogicaNegocio.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.LogicaNegocio\bin\Debug\appHeroeMVC.LogicaNegocio.pdb
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.LogicaNegocio\bin\Debug\appHeroeMVC.AccesoDatos.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.LogicaNegocio\bin\Debug\appHeroeMVC.Entidades.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.LogicaNegocio\bin\Debug\EntityFramework.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.LogicaNegocio\bin\Debug\appHeroeMVC.AccesoDatos.pdb
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.LogicaNegocio\bin\Debug\appHeroeMVC.Entidades.pdb
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.LogicaNegocio\bin\Debug\EntityFramework.xml
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.LogicaNegocio\obj\Debug\appHeroeMVC.LogicaNegocio.csprojResolveAssemblyReference.cache
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.LogicaNegocio\obj\Debug\appHeroeMVC.LogicaNegocio.dll
+E:\Aplicaciones_NET\appHeroeMVC\appHeroeMVC.LogicaNegocio\obj\Debug\appHeroeMVC.LogicaNegocio.pdb
